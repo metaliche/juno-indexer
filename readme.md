@@ -9,7 +9,7 @@
 
 Check out all repositories with submodule:
 ```
-git submodule update --force
+git submodule update --recursive --remote --force
 ```
 
 ## Subquery
